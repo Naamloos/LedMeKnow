@@ -33,4 +33,4 @@ Ask the library if a vertical LED row is enabled. returns a bool.
 
 
 ## Suggestions?
-Send them via "issues" or contact me on (Twitter)[https://twitter.com/naamloos_nl]  (don't worry, i won't bite!)
+Send them via "issues" or contact me on [Twitter](https://twitter.com/naamloos_nl)  (don't worry, i won't bite!)
