@@ -53,7 +53,7 @@ Disable every LED on vertical row.
 ````Arduino
 // Disable every y where x = 0:
 for(int i = 0; i < 8; i++){
-disableLed(0, 1);
+disableLed(0, i);
 }
 ````
 
