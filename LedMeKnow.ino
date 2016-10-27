@@ -1,4 +1,4 @@
-// LedMeKnow library for remebering what leds are enabled.
+// LedMeKnow library for remembering what leds are enabled.
 // For use with an 8x8 led matrix
 
 int x0[8]={0,0,0,0,0,0,0,0};
